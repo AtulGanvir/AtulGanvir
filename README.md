@@ -91,7 +91,7 @@ I'm **Atul Ganvir**, a third-year engineering student with a clear goal in sight
 
 </div>
 
-> ℹ️ These widgets are auto-generated and update on their own — nothing to maintain here. If a stat card looks empty right now, it's just because activity/history is still building up. It'll fill in as you commit more.
+
 
 <br/>
 
